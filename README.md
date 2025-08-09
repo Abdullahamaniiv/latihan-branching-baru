@@ -1,2 +1,2 @@
 # latihan-branching-baru
-Repository latihan untuk belajar branching
+ini adalah repository untuk latihan membuat branch baru di github
